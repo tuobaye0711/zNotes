@@ -1,2 +1,5 @@
 # zNotes
-some notes
+
+***
+
+Some notes on the way to study.
